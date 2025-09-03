@@ -66,7 +66,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"{played} {progress_bar} {dur}",
-                url="https://t.me/tumsehiii"
+                url="https://t.me/silenthrex"
             )
         ],
         [
@@ -129,4 +129,5 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
 
 # Credit
 # Modified with love by Nand Yaduwanshi @WTF_WhyMeeh
+
 
