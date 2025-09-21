@@ -26,4 +26,5 @@ unidecode
 uvloop
 youtube-search
 youtube-search-python
-yt-dlp>=2025.6.30
+yt-dlp>=2025.9.5
+
