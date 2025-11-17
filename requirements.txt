@@ -15,7 +15,7 @@ pillow==11.3.0
 psutil
 py-tgcalls==0.9.7
 pykeyboard
-kurigram==2.2.7
+kurigram==2.2.15
 python-dotenv
 pyyaml
 requests
