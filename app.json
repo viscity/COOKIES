@@ -1,5 +1,5 @@
 {
-    "name": "Red Fm",
+    "name": "cookies",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://files.catbox.moe/yi9mms.jpg",
     "keywords": [
@@ -14,12 +14,12 @@
     "env": {
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "29448785",
+            "value": "",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "599574f6aff0a09ebb76305b58e7e9c2",
+            "value": "",
             "required": true
         },
         "BOT_TOKEN": {
@@ -29,17 +29,17 @@
         },
         "MONGO_DB_URI": {
             "description": "Get a mongodb url from https://cloud.mongodb.com.",
-            "value": "mongodb+srv://deepak-bot:LoRm7nrAqVs2xncW@cluster0.hnp8icx.mongodb.net/?retryWrites=true&w=majority",
+            "value": "",
             "required": true
         },
         "OWNER_ID": {
             "description": "The user id of user whom you would like to add as OWNER.",
-            "value": "7978151350",
+            "value": "",
             "required": true
         },
         "OWNER_USERNAME": {
             "description": "The username of the owner (without @)",
-            "value": "Silenthrax",
+            "value": "",
             "required": false
         },
         "STRING_SESSION": {
@@ -64,22 +64,22 @@
         },
         "LOG_GROUP_ID": {
             "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-            "value": "-1002267586320",
+            "value": "",
             "required": true
         },
         "SUPPORT_GROUP": {
             "description": "Your support group username (without @)",
-            "value": "https://t.me/BESTIE_UNITE_CLUB",
+            "value": "",
             "required": false
         },
         "SUPPORT_CHANNEL": {
             "description": "Your support channel username (without @)",
-            "value": "https://t.me/Silenthrex",
+            "value": "",
             "required": false
         },
         "API_KEY": {
             "description": "An additional API key for your bot (if needed)",
-            "value": "30DxNexGenBots19bc74",
+            "value": "",
             "required": false
         }
     },
