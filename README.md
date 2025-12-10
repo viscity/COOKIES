@@ -68,8 +68,8 @@ sudo apt-get install python3-pip ffmpeg git -y
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/NoxxOP/ShrutiMusicBot
-cd ShrutiMusicBot
+git clone https://github.com/viscity/cookies
+cd cookies
 ```
 
 #### Setup Virtual Environment
@@ -108,7 +108,7 @@ There are two ways to start the bot:
 
 1. Using Python directly:
 ```bash
-python3 -m ShrutiMusic
+python3 -m cookies
 ```
 
 2. Using Bash script:
@@ -121,7 +121,7 @@ bash start
 To keep the bot running in background:
 
 ```bash
-screen -S shrutibot
+screen -S cookies
 bash start
 ```
 
@@ -129,7 +129,7 @@ To detach the screen, press `Ctrl+A` then `D`
 
 To reattach the screen later:
 ```bash
-screen -r shrutibot
+screen -r cookies
 ```
 
 ### ☁️ Heroku Deployment
